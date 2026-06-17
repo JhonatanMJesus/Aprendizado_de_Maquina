@@ -24,7 +24,7 @@ Os mesmos três pares de datasets introduzidos em `05052026`:
 | `train_dataset3.csv` / `test_dataset3.csv` | Cenário 3 |
 
 ## Relação com outras aulas
-Esta aula é a **implementação prática** do conteúdo teórico apresentado em `05052026`. A aula `05262026` avança para redes multicamada (MLP).
+Esta aula é a **implementação prática** do conteúdo teórico apresentado em `05052026`. A aula `05202026` refatora este código em uma classe OO mais estruturada. A aula `05262026` avança para redes multicamada (MLP).
 
 ## Objetivo
 Implementar o Perceptron do zero e observar empiricamente sua capacidade de separar classes linearmente separáveis, preparando a base para redes neurais mais profundas.

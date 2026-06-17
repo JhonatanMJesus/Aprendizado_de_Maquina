@@ -128,6 +128,14 @@ Algoritmo Perceptron para classificação linear binária.
 >
 > **Arquivos:** `perceptron.ipynb`, `train_dataset1-3.csv`, `test_dataset1-3.csv`
 
+> #### `05202026` — Implementação OO
+> Refatoração do Perceptron em classe reutilizável com inicialização de pesos configurável.
+> - Classe `Perceptron` com `learning_rate`, `n_epochs` e `weight_init` configuráveis
+> - Visualização lado a lado: distribuição dos dados vs fronteira de decisão
+> - Avaliação explícita em treino e teste para os 3 cenários
+>
+> **Arquivos:** `perceptron.ipynb`, `train_dataset1-3.csv`, `test_dataset1-3.csv`
+
 ---
 
 ### `05262026` — Multi-Layer Perceptron (MLP)
@@ -173,5 +181,6 @@ Algoritmo K-Means implementado do zero para segmentação não supervisionada.
 | `04292026` | 29/04 | Árvores de Decisão | Classificação |
 | `05052026` | 05/05 | Perceptron — Teoria | Redes Neurais |
 | `05122026` | 12/05 | Perceptron — Implementação | Redes Neurais |
+| `05202026` | 20/05 | Perceptron — Implementação OO | Redes Neurais |
 | `05262026` | 26/05 | MLP | Redes Neurais |
 | `05272026` | 27/05 | K-Means | Não Supervisionado |
